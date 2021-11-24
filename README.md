@@ -24,7 +24,7 @@ Supports:
 
 ### Manually
 ```bash
-git clone https://github.com/TIBHannover/ontology2smw.git
+git clone https://github.com/laura-dirocco/ontology2smw.git
 cd ontology2smw
 # ---- (optional) create and activate a virtual-environment
 python -m venv venv
